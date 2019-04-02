@@ -1,0 +1,4 @@
+name:  MyAlg ->   config:     c1.txt
+name:  MyAlg ->   config:     c3.txt
+name:   MyAlg ->    config: c4.txt
+name:   MyAlg ->    config: c2.txt

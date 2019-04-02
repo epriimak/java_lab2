@@ -1,0 +1,3 @@
+mode    :        decode
+num     :                  2
+table   :                table2.txt
